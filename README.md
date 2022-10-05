@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IzzyTiago
+- 👋 Hi, I’m @MaurysWigs
 - 👀 I’m interested in ... guitars, bikes and movies
 - 🌱 I’m currently learning ...python
 - 💞️ I’m looking to collaborate on ... anything, I'm a total beginner
